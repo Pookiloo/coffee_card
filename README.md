@@ -15,5 +15,5 @@ I learned how to...
 
 # Resources
 
-I followed the NetNinja Master class to learn the basics of flutter
+I followed the NetNinja Master class to learn the basics of flutter (Lesson 1-18)
 https://netninja.dev/courses/enrolled/2480514
